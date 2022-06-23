@@ -1,2 +1,2 @@
-# qa-RiabtsevDima
+# Qa-RiabtsevDima
 My_first_repository
